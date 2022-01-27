@@ -47,8 +47,10 @@ The examples below illustrate which value the expression returns:
     the output is:
 
     ```java
-    The date May 21st, 2015\. The time will be 12 o'clock at night  because it is not specified.
+    'Thu May 21 00:00:00 CET 2015' 
     ```
+    The time will be 12 o'clock at night because it is not specified.
+    
     
 * If you use the following input:
 
